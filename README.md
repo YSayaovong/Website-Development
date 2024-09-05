@@ -1,8 +1,5 @@
 # Website Development
 
-```markdown
-# Website Development
-
 This repository contains the source code and documentation for building a website using HTML, CSS, and JavaScript. It covers essential web development concepts and practices.
 
 ### Features:
