@@ -1,9 +1,5 @@
 # Website Development
 
-This repository contains the source code and documentationHere are the rest of the requested README codes:
-
-For **Website Development**:
-
 ```markdown
 # Website Development
 
