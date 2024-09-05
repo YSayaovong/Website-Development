@@ -1,1 +1,3 @@
-# Website Development Stock Trading
+# Website Development
+
+This repository contains the source code and documentation
